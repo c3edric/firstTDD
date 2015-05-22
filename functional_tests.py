@@ -10,4 +10,5 @@ browser.get('http://localhost:8000')
 
 
 #dsgdf
+#243242
 assert 'Django' in browser.title
